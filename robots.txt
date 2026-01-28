@@ -1,0 +1,2 @@
+user agent:*
+sitemap:https://annanagartn-png.github.io/Nithya/cooker.xml
